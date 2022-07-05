@@ -42,6 +42,9 @@ export default function Home({ data }: PageProps<User | null>) {
         </div>
       </div>
       }
+      <div>
+        <a href="https://github.com/swkim101/deno-fresh-example">Click to see the source code</a>
+      </div>
     </div>
   );
 }
